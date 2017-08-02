@@ -1,5 +1,5 @@
 # Iridium Icons
-Set of SVG icons.
+Set of SVG icons. Gradually updated.
 
 ## Build
 1. Make sure you have installed:
