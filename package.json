@@ -2,6 +2,14 @@
 	"name": "iridium-icons",
 	"version": "0.0.1",
 	"devDependencies": {
-		"gulp": "latest"
+		"gulp": "^3.9.1",
+		"del": "^3.0.0",
+		"gulp-rename": "^1.2.2",
+		"gulp-imagemin": "^3.3.0",
+		"gulp-svg2png": "^2.0.2",
+		"run-sequence": "^2.1.0"
+	},
+	"dependencies": {
+
 	}
 }
