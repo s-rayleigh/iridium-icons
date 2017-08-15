@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="44.8"
-     inkscape:cx="4.5138361"
+     inkscape:cx="0.083032529"
      inkscape:cy="7.3286657"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -107,7 +107,7 @@
      id="layer1"
      transform="translate(0,-292.76666)">
     <path
-       style="fill:#fdfdfd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 0.52916658,293.03124 H 1.0583333 v 2.64583 H 1.5874999 L 0.79374988,296.73541 -1.1666667e-7,295.67707 H 0.52916658 Z"
        id="path8272"
        inkscape:connector-curvature="0"

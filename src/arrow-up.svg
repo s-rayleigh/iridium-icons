@@ -15,7 +15,7 @@
    version="1.1"
    id="svg7668"
    inkscape:version="0.92.1 r"
-   sodipodi:docname="up.svg">
+   sodipodi:docname="arrow-up.svg">
   <defs
      id="defs7662" />
   <sodipodi:namedview
@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="44.8"
-     inkscape:cx="8.9446397"
+     inkscape:cx="4.5138361"
      inkscape:cy="7.3286657"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -144,7 +144,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -154,7 +154,7 @@
      id="layer1"
      transform="translate(0,-292.76666)">
     <path
-       style="fill:#fdfdfd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 0.52916658,296.73541 H 1.0583333 v -2.64583 H 1.5874999 L 0.79374988,293.03124 -1.1666667e-7,294.08958 H 0.52916658 Z"
        id="path8272"
        inkscape:connector-curvature="0"
