@@ -29,7 +29,7 @@ gulp.task('build:png', () =>
 
 gulp.task('build', (c) =>
 {
-	runSequence('clear', ['build:svg', 'build:png'], c);
+	runSequence('clear', 'build:svg', 'build:png', c);
 });
 
 gulp.task('default', ['build']);
