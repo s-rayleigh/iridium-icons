@@ -1,15 +1,22 @@
 {
 	"name": "iridium-icons",
 	"version": "0.0.1",
+	"description": "Set of icons.",
+	"license": "MIT",
+	"author": {
+		"name": "Vladislav Pashaiev",
+		"email": "rayleigh@protonmail.com"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/s-rayleigh/iridium-icons.git"
+	},
 	"devDependencies": {
-		"gulp": "^3.9.1",
+		"gulp": "^4.0.0",
 		"del": "^3.0.0",
 		"gulp-rename": "^1.2.2",
 		"gulp-imagemin": "^3.3.0",
 		"gulp-svg2png": "^2.0.2",
 		"run-sequence": "^2.1.0"
-	},
-	"dependencies": {
-
 	}
 }
