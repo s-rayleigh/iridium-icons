@@ -20,7 +20,7 @@ $ gulp build
 Built version will be in `dist` directory.
 
 ## Copyright and license
-Copyright 2017 Vladislav Pashaiev.
+Copyright 2018 Vladislav Pashaiev.
 
 Iridium Icons project distributed under the terms of MIT license.
 
